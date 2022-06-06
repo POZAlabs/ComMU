@@ -117,7 +117,7 @@ While it is difficult to define what an objectively high quality piece of music 
  - We compare the results from our baseline model(Transformer-XL) in the variation of top-k(K) and temperature(τ).
 
 <div align="center">
-  <img src="./assets/img/table_3.png" width=1000x>
+  <img src="./assets/img/table_3.png" width=600x>
 </div>
 
 
