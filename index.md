@@ -45,7 +45,7 @@ While melody and accompaniment have short note lengths, bass and pad have longer
 
  - Figure above shows that with the introduction of track-role, a more appropriate music can be generated and can improve the capacity and flexibility of automatic composition.
 
-_comparing music with various track-role_
+
 
 <h3>Piano with 4 track-role</h3>
 
@@ -82,11 +82,6 @@ _comparing music with various track-role_
 
 
 
-
-
-
-
-
 <h3>String with 4 track-role</h3>
 
 <table class="audio-table">
@@ -120,16 +115,12 @@ _comparing music with various track-role_
   </foot>
 </table>
 
-      
-## Understanding the Task of Combinatorial Music Generation
 
+## Understanding the Task of CombinatorialMusic Generation
 <div align="center">
   <img src="./assets/img/figure_1.png" width=1000x>
 </div>
-
 As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. Hence ComMU is utilized to tackle its task in stage 1.
-
-
 
 
 ## Listening sample music
@@ -151,8 +142,6 @@ _list samples with metadata_
       <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
-  <tfoot>
-  </tfoot>
 </table>
 
 
@@ -163,17 +152,14 @@ All music samples are generated. stage2 is done by composers.
 _list samples with metadata_
 
 
-<h3>Stage 1</h3>
+<h3>Stage 2</h3>
 
 <table class="audio-table">
   <tbody>
     <tr>
-      <td>5 sample audio</td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
-  <tfoot>
-  </tfoot>
 </table>
 
 
