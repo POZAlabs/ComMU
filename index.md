@@ -19,8 +19,9 @@ _2 sample clips go here_
 
 ## Pipeline of data collection
 
-figure: how to collection the data
-
+<div align="center">
+  <img src="./assets/img/data_pipeline.png" width=1000x>
+</div>
 
 
 ## Data Analysis
