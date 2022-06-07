@@ -43,7 +43,7 @@ As shown above, the process of combinatorial music generation is divided into tw
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
       -  #chord_progression: Am → F → C → G → A m → F → C → G  
 
-   - #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 40, #max_velocity: 50
+ - #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 40, #max_velocity: 50
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_1.mp3" type="audio/mpeg">
 </audio>
