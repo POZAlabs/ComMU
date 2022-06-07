@@ -83,12 +83,44 @@ _comparing music with various track-role_
 
 
 
+
+
+
+
+<h3>String with 4 track-role</h3>
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>Main Melody</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sub Melody</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submmelody/string_submelody_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submelody/string_submelody_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submelody/string_submelody_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Accompaniment</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Riff</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </foot>
+</table>
+
       
-  
-
-
-
-
 ## Understanding the Task of Combinatorial Music Generation
 
 <div align="center">
@@ -106,6 +138,22 @@ randomly chosen metadata output. All music samples are generated.
 
 _list samples with metadata_
 
+<h3>Stage 1</h3>
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>5 sample audio</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
 
 
 ## Listening music after combinatorial music generation stage1 and 2
@@ -113,3 +161,21 @@ _list samples with metadata_
 All music samples are generated. stage2 is done by composers.
 
 _list samples with metadata_
+
+
+<h3>Stage 1</h3>
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>5 sample audio</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
+
+
+
+
