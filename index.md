@@ -47,6 +47,46 @@ While melody and accompaniment have short note lengths, bass and pad have longer
 
 _comparing music with various track-role_
 
+<h3>Piano with 4 track-role</h3>
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>Main Melody</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Sub Melody</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td>Accompaniment</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Riff</td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_002.mp3" type="audio/mpeg" /></audio></td>
+    </tr>
+  </foot>
+</table>
+
+
+
+
+      
+  
+
+
 
 
 ## Understanding the Task of Combinatorial Music Generation
