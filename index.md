@@ -77,7 +77,7 @@ While melody and accompaniment have short note lengths, bass and pad have longer
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
-  </foot>
+  </tfoot>
 </table>
 
 
@@ -112,7 +112,7 @@ While melody and accompaniment have short note lengths, bass and pad have longer
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
-  </foot>
+  </tfoot>
 </table>
 
 
