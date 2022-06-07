@@ -90,6 +90,7 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 
 <h3>Piano with 4 track-role</h3>
+All metadata are the same except for track-role
 
 <table class="audio-table">
   <tbody>
@@ -125,6 +126,7 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 
 <h3>String with 4 track-role</h3>
+All metadata are the same except for track-role
 
 <table class="audio-table">
   <tbody>
