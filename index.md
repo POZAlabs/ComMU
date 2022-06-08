@@ -17,13 +17,13 @@ BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Numb
 - #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
 #chord_progression: F - C - Am - G
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/example_data/1.wav" type="audio/mpeg">
+  <source src="./assets/example_data/1.wav" type="audio/mpeg">
 </audio>
 
 - #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track_category: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 70, #max_velocity: 70
 #chord_progression: Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E7 - Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E1 - Am
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/example_data/2.wav" type="audio/mpeg">
+  <source src="./assets/example_data/2.wav" type="audio/mpeg">
 </audio>
 
 
@@ -88,6 +88,46 @@ As shown above, the process of combinatorial music generation is divided into tw
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg">
 </audio>
+
+
+## Ground truth vs. Generated
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>Ground truth</td>
+      <td>Generated</td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/1.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/1.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/2.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/2.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/3.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/3.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/4.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/4.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/5.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/5.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+   <tr>
+      <td><audio controls=""><source src="./assets/comparing/ground_truth/6.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/comparing/generated/6.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tfoot>
+</table>
+
+
 
 
 ## Multi-track with Track-role
