@@ -20,7 +20,7 @@ BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Numb
   <source src="./assets/audio_samples/example_data/1.wav" type="audio/mpeg">
 </audio>
 
-- #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track_category: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 40, #max_velocity: 50
+- #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track_category: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 70, #max_velocity: 70
 #chord_progression: Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E7 - Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E1 - Am
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/example_data/2.wav" type="audio/mpeg">
