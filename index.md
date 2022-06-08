@@ -37,7 +37,7 @@ ComMU has 11,144 MIDI samples that consist of short note sequences created by pr
 <div align="center">
   <img src="./assets/img/figure_1.png" width=1000x>
 </div>
-As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. Hence ComMU is utilized to tackle its task in stage 1.
+As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. ComMU is utilized to solve stage 1.
 
 
 
