@@ -20,7 +20,7 @@ _2 sample clips go here_
 ## Pipeline of data collection
 
 <div align="center">
-  <img src="./assets/img/data_pipeline.png" width=1000x>
+  <img src="./assets/img/data_pipeline_2.png" width=1000x>
 </div>
 
 
