@@ -2,7 +2,7 @@
 
 - <a href="https://github.com/POZAlabs/ComMU-code">Papr on arxiv(not yet available)</a>
 - <a href="https://github.com/POZAlabs/ComMU-code">Code on github</a>
-- <a href="./assets/raw.tar" download="ComMU.tar">Dataset download</a>
+- <a href="./assets/ComMU.tar" download="ComMU.tar">Dataset download</a>
  
 
 <iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
@@ -14,7 +14,11 @@ BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Numb
 
 ## Example of the dataset
 
-_2 sample clips go here_
+- #bpm: 130, #key: A minor, #time_signature: 4/4 #number_of_measures: 8, #genre: new age, #rhythm: standard #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 40, #max_velocity: 50
+#chord_progression: Am → F → C → G → Am → F → C → G
+<audio controls style="width: 400px;">
+  <source src="./assets/audio_samples/track_role/newage_trackrole/newage_riff_1.mp3" type="audio/mpeg">
+</audio>
 
 
 
