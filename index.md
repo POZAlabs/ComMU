@@ -43,7 +43,7 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 
 ## Stage 1
-Audio samples below are automatically generated with our model.
+Audio samples are automatically generated only with descripted metadata.
  - Common metadata underlying the 5 clips are as follows:
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
@@ -85,7 +85,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 
 
 ## Ground truth vs. Generated
-
+Our system does not reconstruct ground-truth samples but generate samples that have originality.
 <table class="audio-table">
   <tbody>
     <tr>
