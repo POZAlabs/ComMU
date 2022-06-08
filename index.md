@@ -11,7 +11,7 @@ ComMU has 11,144 MIDI samples that consist of short note sequences created by pr
 
 # Examples of the dataset
 
-- <span style="color: #808080">bpm</span>: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
+- #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
 #chord_progression: F - C - Am - G
 <audio controls style="width: 400px;">
   <source src="./assets/example_data/1.wav" type="audio/mpeg">
