@@ -1,6 +1,6 @@
 # ComMU
 
-- <a href="https://github.com/POZAlabs/ComMU-code">Papr on arxiv(not yet possible)</a>
+- <a href="https://github.com/POZAlabs/ComMU-code">Papr on arxiv(not yet available)</a>
 - <a href="https://github.com/POZAlabs/ComMU-code">Code on github</a>
 - <a href="./assets/raw.tar" download="ComMU.tar">Dataset download</a>
  
