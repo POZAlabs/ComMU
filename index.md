@@ -7,17 +7,17 @@
 
 <iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. We propose combinatorial music generation, a new task that generate diverse and high-quality music only with metadata through auto-regressive language model. Here are the ComMU's 12 metadata:
-- BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, rhythm.
+- BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, and rhythm.
 
 # Example of the dataset
 
-- #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
+- #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
 #chord_progression: F - C - Am - G
 <audio controls style="width: 400px;">
   <source src="./assets/example_data/1.wav" type="audio/mpeg">
 </audio>
 
-- #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track_category: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 70, #max_velocity: 70
+- #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track-role: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 70, #max_velocity: 70
 #chord_progression: Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E7 - Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E1 - Am
 <audio controls style="width: 400px;">
   <source src="./assets/example_data/2.wav" type="audio/mpeg">
