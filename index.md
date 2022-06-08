@@ -97,28 +97,24 @@ All metadata are the same except for track-role
     <tr>
       <td>Main Melody</td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_000.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_mainmelody/piano_mainmelody_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sub Melody</td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_000.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_submelody/piano_submelody_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Accompaniment</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_000.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_002.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_accompaniment/piano_accompaniment_003.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Riff</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_000.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_002.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/piano/piano_riff/piano_riff_003.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
@@ -132,27 +128,23 @@ All metadata are the same except for track-role
   <tbody>
     <tr>
       <td>Main Melody</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_000.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_001.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_002.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_mainmelody/string_mainmelody_003.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Sub Melody</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submelody/string_submelody_000.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submelody/string_submelody_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_submelody/string_submelody_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
       <td>Accompaniment</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_000.mp3" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_002.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_accompaniment/string_accompaniment_003.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <td>Riff</td>
-      <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_000.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_001.mp3" type="audio/mpeg" /></audio></td>
       <td><audio controls=""><source src="./assets/audio_samples/track_role/string/string_riff/string_riff_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
