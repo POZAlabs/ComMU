@@ -1,6 +1,6 @@
 # ComMU
 
-- <a href="https://github.com/POZAlabs/ComMU-code">Papr on arxiv(not yet available)</a>
+- <a href="https://github.com/POZAlabs/ComMU-code">Paper on arxiv(not yet available)</a>
 - <a href="https://github.com/POZAlabs/ComMU-code">Code on github</a>
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Dataset download</a>
  
@@ -14,10 +14,16 @@ BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Numb
 
 ## Example of the dataset
 
-- #bpm: 130, #key: A minor, #time_signature: 4/4 #number_of_measures: 8, #genre: new age, #rhythm: standard #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 40, #max_velocity: 50
-#chord_progression: Am → F → C → G → Am → F → C → G
+- #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
+#chord_progression: F - C - Am - G
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/newage_trackrole/newage_riff_1.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/example_data/1.wav" type="audio/mpeg">
+</audio>
+
+- #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track_category: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 40, #max_velocity: 50
+#chord_progression: Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E7 - Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E1 - Am
+<audio controls style="width: 400px;">
+  <source src="./assets/audio_samples/example_data/2.wav" type="audio/mpeg">
 </audio>
 
 
