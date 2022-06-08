@@ -8,7 +8,7 @@
 <iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 ComMU is a dataset for combinatorial music generation, a branch of conditional music generation. The dataset contains 11,144 MIDI samples written and created by professional composers, and is consisted of short note sequences of 4, 8, or 16 bars. MIDI files of the dataset are organized into 12 different metadata. Here are the following metadata and more information on the dataset:
-BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Number of Measures, Chord progression, Min Velocity, Max Velocity, Rhythm.
+- BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, rhythm.
 
 
 
@@ -52,27 +52,27 @@ Audio samples below are automatically generated with our model.
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
       -  #chord_progression: Am → F → C → G → A m → F → C → G  
 
- - #track_category: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 40, #max_velocity: 50
+ - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 40, #max_velocity: 50
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_1.mp3" type="audio/mpeg">
 </audio>
 
-   - #track_category: main_melody, #pitch_range: mid, #instruments: piano, #min_velocity: 60, #max_velocity: 70
+   - #track-role: main_melody, #pitch_range: mid, #instrument: piano, #min_velocity: 60, #max_velocity: 70
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_mainmelody_1.mp3" type="audio/mpeg">
 </audio>
 
-   - #track_category: pad, #pitch_range: mid_low, #instruments: piano, #min_velocity: 70, #max_velocity: 80
+   - #track-role: pad, #pitch_range: mid_low, #instrument: piano, #min_velocity: 70, #max_velocity: 80
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_pad_piano_1.mp3" type="audio/mpeg">
 </audio>
 
-   - #track_category: pad, #pitch_range: mid_low, #instruments: string, #min_velocity: 2, #max_velocity: 127
+   - #track-role: pad, #pitch_range: mid_low, #instrument: string, #min_velocity: 2, #max_velocity: 127
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_pad_string_1.mp3" type="audio/mpeg">
 </audio>
 
-   - #track_category: riff, #pitch_range: mid_high, #instruments: piano, #min_velocity: 70, #max_velocity: 80
+   - #track-role: riff, #pitch_range: mid_high, #instrument: piano, #min_velocity: 70, #max_velocity: 80
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_riff_1.mp3" type="audio/mpeg">
 </audio>
