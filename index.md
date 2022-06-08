@@ -44,7 +44,7 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 ## Stage 1
 Audio samples are automatically generated only with descripted metadata.
- - Common metadata underlying the 5 clips are as follows:
+ - Common metadata of the 5 clips are as follows:
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
       -  #chord_progression: Am → F → C → G → A m → F → C → G  
