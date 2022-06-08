@@ -6,11 +6,8 @@
  
 
 <iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-
-ComMU is a dataset for combinatorial music generation, a branch of conditional music generation. The dataset contains 11,144 MIDI samples written and created by professional composers, and is consisted of short note sequences of 4, 8, or 16 bars. MIDI files of the dataset are organized into 12 different metadata. Here are the following metadata and more information on the dataset:
+ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. We can generate diverse and high-quality music only with metadata through combinatorial music genration. Here are the ComMU's 12 metadata:
 - BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, rhythm.
-
-
 
 # Example of the dataset
 
