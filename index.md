@@ -84,7 +84,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 </audio>
 
 
-## Ground truth vs. Generated
+# Ground truth vs. Generated
 Our system does not reconstruct ground-truth samples but generate samples that have originality.
 <table class="audio-table">
   <tbody>
@@ -124,7 +124,7 @@ Our system does not reconstruct ground-truth samples but generate samples that h
 
 
 
-## Multi-track with Track-role
+# Multi-track with Track-role
 
 <div align="center">
   <img src="./assets/img/figure_7.png" width=1000x>
