@@ -1,8 +1,8 @@
 # ComMU
 
-- <a href="https://github.com/POZAlabs/ComMU-code">Paper on arxiv(not yet available)</a>
+- <a href="https://github.com/POZAlabs/ComMU-code">Paper on arxiv(TBA)</a>
 - <a href="https://github.com/POZAlabs/ComMU-code">Code on github</a>
-- <a href="./assets/ComMU.tar" download="ComMU.tar">Dataset download</a>
+- <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
  
 
 <iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
