@@ -45,9 +45,9 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 
 
-## Generated music (stage 1)
+### Generated music (stage 1)
 
- - Audio samples below are outputs that were generated using our model via randomly chosen metadata. All 5 samples were automatically generated without any input of a human composer. This is stage 1 of the combinatorial music generation. 
+ - Audio samples below are automatically generated with our model. This is stage 1 of the combinatorial music generation. 
  - The samples below are all under the genre 'newage'.
  - Common metadata underlying the 5 clips are as follows:
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
