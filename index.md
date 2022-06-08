@@ -31,7 +31,7 @@ BPM, Genre, Key, Track-instrument, Track-role, Time signature, Pitch range, Numb
 ## Pipeline of data collection
 
 <div align="center">
-  <img src="./assets/img/data_pipeline_2.png" width=1000x>
+  <img src="./assets/img/data_pipeline_3.png" width=1000x>
 </div>
 
 
