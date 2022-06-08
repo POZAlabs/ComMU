@@ -130,7 +130,7 @@ Our system does not reconstruct ground-truth samples but generate samples that h
   <img src="./assets/img/figure_7.png" width=1000x>
 </div>
 
- - Figure above shows that with the introduction of track-role, a more appropriate music can be generated and can improve the capacity and flexibility of automatic composition.
+Figure shows that the track-role can provides precise guidance to generated music.
 
 
 
