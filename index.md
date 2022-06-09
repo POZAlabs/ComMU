@@ -198,3 +198,6 @@ All metadata are the same except for track-role
 
 
 
+## License
+
+The license of ComMU dataset is under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
