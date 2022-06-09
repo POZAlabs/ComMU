@@ -28,7 +28,7 @@ ComMU has 11,144 MIDI samples that consist of short note sequences created by pr
 # Pipeline of data collection
 
 <div align="center">
-  <img src="./assets/img/data_pipeline_3.png" width=1000x>
+  <img src="./assets/img/data_pipeline_4.png" width=1000x>
 </div>
 
 
@@ -127,7 +127,7 @@ Our system does not reconstruct ground-truth samples but generate samples that h
 # Multi-track with Track-role
 
 <div align="center">
-  <img src="./assets/img/figure_7.png" width=1000x>
+  <img src="./assets/img/figure_7_2.png" width=1000x>
 </div>
 
 Figure shows that the track-role can provides precise guidance to generated music.
