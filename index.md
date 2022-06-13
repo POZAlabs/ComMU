@@ -48,7 +48,9 @@ Audio samples are automatically generated only with descripted metadata.
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
       -  #chord_progression: Am → F → C → G → A m → F → C → G  
+
 <br />
+
  - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 40, #max_velocity: 50
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_1.mp3" type="audio/mpeg">
@@ -92,6 +94,7 @@ Audio samples are automatically generated only with described metadata.
 	  - #number_of_measures: 8, #genre: cinematic, #rhythm: standard
 
 <br />
+
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: violin, #min_velocity: 1, #max_velocity: 127
 - #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
