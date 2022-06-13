@@ -48,7 +48,7 @@ Audio samples are automatically generated only with descripted metadata.
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
       -  #chord_progression: Am → F → C → G → A m → F → C → G  
-
+<br />
  - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 40, #max_velocity: 50
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_accompaniment_1.mp3" type="audio/mpeg">
@@ -84,45 +84,49 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 </audio>
 
 ## Stage 1
+
+Below is another set of samples with a different genre.
 Audio samples are automatically generated only with described metadata. 
  - Common metadata of the 5 clips are as follows: 
 	  - #bpm: 80, #key: A minor, #time_signature: 4/4
 	  - #number_of_measures: 8, #genre: cinematic, #rhythm: standard
 
-
+<br />
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: violin, #min_velocity: 1, #max_velocity: 127
 - #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/cinematic_trackrole/violin_mainmelody.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/violin_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: piano, #min_velocity: 25, #max_velocity: 60
 - #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/cinematic_trackrole/piano_mainmelody.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
 - #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/cinematic_trackrole/piano_accompaniment.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_accompaniment.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: string, #min_velocity: 1, #max_velocity: 127
 - #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/cinematic_trackrole/string_mainmelody.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/string_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
 - #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/cinematic_trackrole/piano_accompaniment2.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_accompaniment2.mp3" type="audio/mpeg">
 </audio>
 
 ## Stage 2
 A human composer combines the 5 above audio samples, putting only 3-4 minutes to create the full song below.
-
+<audio controls style="width: 600px;">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_romantic.mp3" type="audio/mpeg">
+</audio>
 
 
 # Ground truth vs. Generated
