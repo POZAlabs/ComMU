@@ -90,34 +90,34 @@ Audio samples are automatically generated only with described metadata.
 	  - #number_of_measures: 8, #genre: cinematic, #rhythm: standard
 
 
-- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: violin, #min_velocity: 1, #max_velocity: 127
+- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/cinematic_trackrole/violin_mainmelody.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/cinematic_trackrole/violin_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
-- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: piano, #min_velocity: 25, #max_velocity: 60
-<audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_mainmelody.mp3" type="audio/mpeg">
-</audio>
-
 - #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
-- #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_accompaniment.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/cinematic_trackrole/piano_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
-- #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
+- #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
+- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+<audio controls style="width: 400px;">
+  <source src="./assets/audio_samples/cinematic_trackrole/piano_accompaniment.mp3" type="audio/mpeg">
+</audio>
+
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: string, #min_velocity: 1, #max_velocity: 127
+- #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/cinematic_trackrole/string_mainmelody.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/cinematic_trackrole/string_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
-- #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
 - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
+- #chord_progression: Dm7 → Em7 → Fmaj7 → Cmaj7 → Am7 → Em7 → Fmaj7 → Cmaj7 → F#m7b5 → Gsus4 → E7
 <audio controls style="width: 400px;">
-  <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_accompaniment2.mp3" type="audio/mpeg">
+  <source src="./assets/audio_samples/cinematic_trackrole/piano_accompaniment2.mp3" type="audio/mpeg">
 </audio>
 
 ## Stage 2
