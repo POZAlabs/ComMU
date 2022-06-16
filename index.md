@@ -5,7 +5,7 @@
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
  
 
-<iframe width="800" height="457" src="https://www.youtube.com/embed/yXFlF9nlB8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe width="800" height="457" src="https://youtu.be/I3oj7WmlctU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. We propose combinatorial music generation, a new task that generate diverse and high-quality music only with metadata through auto-regressive language model. Here are the ComMU's 12 metadata:
 - BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, and rhythm.
 
@@ -43,7 +43,7 @@ As shown above, the process of combinatorial music generation is divided into tw
 
 
 ## Stage 1
-Audio samples are automatically generated only with descripted metadata.
+Audio samples are automatically <b>generated</b> only with descripted metadata.
  - Common metadata of the 5 clips are as follows:
       -  #bpm: 130, #key: A minor, #time_signature: 4/4
       -  #number_of_measures: 8, #genre: new age, #rhythm: standard
@@ -88,7 +88,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 ## Stage 1
 
 Below is another set of samples with a different genre.
-Audio samples are automatically generated only with described metadata. 
+Audio samples are automatically <b>generated</b> only with described metadata. 
  - Common metadata of the 5 clips are as follows: 
 	  - #bpm: 80, #key: A minor, #time_signature: 4/4
 	  - #number_of_measures: 8, #genre: cinematic, #rhythm: standard
