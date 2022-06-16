@@ -12,13 +12,13 @@ ComMU has 11,144 MIDI samples that consist of short note sequences created by pr
 # Examples of the dataset
 
 - #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
-#chord_progression: F - C - Am - G
+#chord_progression: F → C → Am → G
 <audio controls style="width: 400px;">
   <source src="./assets/example_data/1.wav" type="audio/mpeg">
 </audio>
 
 - #bpm: 120, #key: A minor, #time_signature: 3/4 #number_of_measures: 16, #genre: cinematic, #rhythm: standard #track-role: main_melody, #pitch_range: mid_high, #instruments: string, #min_velocity: 70, #max_velocity: 70
-#chord_progression: Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E7 - Am - Em7 - FM7 - Em7 - Dm7 - CM7 - Bm7(b5) - E1 - Am
+#chord_progression: Am → Em7 → FM7 → Em7 → Dm7 → CM7 → Bm7b5 → E7 → Am → Em7 → FM7 → Em7 → Dm7 → CM7 → Bm7b5 → Am
 <audio controls style="width: 400px;">
   <source src="./assets/example_data/2.wav" type="audio/mpeg">
 </audio>
@@ -96,19 +96,19 @@ Audio samples are automatically generated only with described metadata.
 <br />
 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: violin, #min_velocity: 1, #max_velocity: 127
-- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+- #chord_progression: Am → Gmaj7 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/violin_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: main_melody, #pitch_range: mid_high, #instrument: piano, #min_velocity: 25, #max_velocity: 60
-- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+- #chord_progression: Am → Gmaj7 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_mainmelody.mp3" type="audio/mpeg">
 </audio>
 
 - #track-role: accompaniment, #pitch_range: mid_low, #instrument: piano, #min_velocity: 25, #max_velocity: 55
-- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+- #chord_progression: Am → Gmaj7 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 <audio controls style="width: 400px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/piano_accompaniment.mp3" type="audio/mpeg">
 </audio>
@@ -174,10 +174,10 @@ Our system does not reconstruct ground-truth samples but generate samples that h
 As shown with 2 sets of examples below, a variety of MIDI files are produced under the same metadata. Corresponding metadata for each set of examples are listed here. 
  - Piano Example: 
  	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: piano, #min_velocity: 25, #max_velocity: 60
- 	- #chord_progression: Dm7 → Em7 → Asus4 → Am → Em7 → Dadd2 → Asus4 → Am → Dm7 → Em7 → Asus4 → Em7 → F#m7b5 → Em7 → Asus4 → A 
+ 	- #chord_progression: Dm7 → Em7 → Asus4 → Am → Em7 → Dmaj7 → Asus4 → Am → Dm7 → Em7 → Asus4 → Em7 → F#m7b5 → Em7 → Asus4 → A 
  - Violin Example: 
  	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: violin, #min_velocity: 1, #max_velocity: 127
- 	- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+ 	- #chord_progression: Am → Gmaj7 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 
 <table class="audio-table">
   <tbody>
