@@ -169,9 +169,9 @@ Our system does not reconstruct ground-truth samples but generate samples that h
   </tfoot>
 </table>
 
-# Variation of Generated Musics
-
-As shown with 2 sets of examples below, a variety of MIDI files are produced under the same metadata. Corresponding metadata for each set of examples are listed here. 
+# Diversity of Generated Music
+We can check the diversity of generated music with same metadata.
+Corresponding metadata for each set of examples are listed here. 
  - Piano Example: 
  		#bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: piano, #min_velocity: 25, #max_velocity: 60
  		#chord_progression: Dm7 → Em7 → Asus4 → Am → Em7 → Dmaj7 → Asus4 → Am → Dm7 → Em7 → Asus4 → Em7 → F#m7b5 → Em7 → Asus4 → A 
