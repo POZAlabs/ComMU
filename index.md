@@ -186,26 +186,26 @@ As shown with 2 sets of examples below, a variety of MIDI files are produced und
       <td>Violin Example</td>
     </tr>
     <tr>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_000.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_000.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_000.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_000.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_001.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_001.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_001.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_001.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_002.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_002.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_002.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_002.mp3" type="audio/mpeg" /></audio></td>
     </tr>
     <tr>
-       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_003.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_003.wav" type="audio/mpeg" /></audio></td>
+       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_003.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_003.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tbody>
   <tfoot>
    <tr>
-       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_004.wav" type="audio/mpeg" /></audio></td>
-      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_004.wav" type="audio/mpeg" /></audio></td>
+       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_004.mp3" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_004.mp3" type="audio/mpeg" /></audio></td>
     </tr>
   </tfoot>
 </table>
