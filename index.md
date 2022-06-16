@@ -176,14 +176,14 @@ As shown with 2 sets of examples below, a variety of MIDI files are produced und
  	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: piano, #min_velocity: 25, #max_velocity: 60
  	- #chord_progression: Dm7 → Em7 → Asus4 → Am → Em7 → Dadd2 → Asus4 → Am → Dm7 → Em7 → Asus4 → Em7 → F#m7b5 → Em7 → Asus4 → A 
  - Violin Example: 
- 	-  	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: violin, #min_velocity: 1, #max_velocity: 127
+ 	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: violin, #min_velocity: 1, #max_velocity: 127
  	- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
 
 <table class="audio-table">
   <tbody>
     <tr>
-      <td>Ground truth</td>
-      <td>Generated</td>
+      <td>Piano Example</td>
+      <td>Violin Example</td>
     </tr>
     <tr>
       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_000.wav" type="audio/mpeg" /></audio></td>
