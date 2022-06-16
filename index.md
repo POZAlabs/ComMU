@@ -169,6 +169,46 @@ Our system does not reconstruct ground-truth samples but generate samples that h
   </tfoot>
 </table>
 
+# Variation of Generated Musics
+
+As shown with 2 sets of examples below, a variety of MIDI files are produced under the same metadata. Corresponding metadata for each set of examples are listed here. 
+ - Piano Example: 
+ 	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: piano, #min_velocity: 25, #max_velocity: 60
+ 	- #chord_progression: Dm7 → Em7 → Asus4 → Am → Em7 → Dadd2 → Asus4 → Am → Dm7 → Em7 → Asus4 → Em7 → F#m7b5 → Em7 → Asus4 → A 
+ - Violin Example: 
+ 	-  	- #bpm: 80, #key: A minor, #time_signature: 4/4, #number_of_measures: 8, #genre: cinematic, #rthythm: standard, #track-role: main_melody, #pitch_range: mid, #instrument: violin, #min_velocity: 1, #max_velocity: 127
+ 	- #chord_progression: Am → Gadd2 → Fmaj7 → G → Cmaj7 → Dm7 → Am → Bmaj7 → E → Am 
+
+<table class="audio-table">
+  <tbody>
+    <tr>
+      <td>Ground truth</td>
+      <td>Generated</td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_000.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_000.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_001.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_001.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_002.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_002.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+    <tr>
+       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_003.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_003.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tbody>
+  <tfoot>
+   <tr>
+       <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_piano/variation_piano_004.wav" type="audio/mpeg" /></audio></td>
+      <td><audio controls=""><source src="./assets/audio_samples/variation_samples/variation_violin/variation_violin_004.wav" type="audio/mpeg" /></audio></td>
+    </tr>
+  </tfoot>
+</table>
 
 
 
