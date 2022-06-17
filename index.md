@@ -5,7 +5,7 @@
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
  
 
-<iframe width="800" height="457" src="https://youtu.be/I3oj7WmlctU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe width="800" height="457" src="https://youtu.be/kjqwOIcl0eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. We propose combinatorial music generation, a new task that generate diverse and high-quality music only with metadata through auto-regressive language model. Here are the ComMU's 12 metadata:
 - BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, and rhythm.
 
