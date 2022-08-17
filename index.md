@@ -133,6 +133,9 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 
 The following is music that randomly combines the samples generated in stage1 while maintaining only the track-role of the samples. 
 Although there is a difference from the music combined by the composer, it sounds harmonious because the code progression between the samples is consistent.
+<audio controls style="width: 600px;">
+  <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_random.mp3" type="audio/mpeg">
+</audio>
 
 # Ground truth vs. Generated
 Our system does not reconstruct ground-truth samples but generate samples that have originality.
