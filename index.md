@@ -85,6 +85,18 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg">
 </audio>
 
+The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
+Although there are differences from the music combined by the composer above, they sounds harmonious because the chord progression between the samples is consistent.
+<audio controls style="width: 600px;">
+  <source src="./assets/audio_samples/track_role/newage_trackrole/newage_random_1.wav" type="audio/mpeg">
+</audio>
+<audio controls style="width: 600px;">
+  <source src="./assets/audio_samples/track_role/newage_trackrole/newage_random_2.wav" type="audio/mpeg">
+</audio>
+<audio controls style="width: 600px;">
+  <source src="./assets/audio_samples/track_role/newage_trackrole/newage_random_3.wav" type="audio/mpeg">
+</audio>
+
 ## Stage 1
 
 Below is another set of samples with a different genre.
