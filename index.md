@@ -1,6 +1,6 @@
 # ComMU
 
-- <a href="https://github.com/POZAlabs/ComMU-code">Paper on arxiv(TBA)</a>
+- <a href="https://openreview.net/pdf?id=Jq3uTzLg9se">Paper (NeurIPS 2022, Track on Datasets and Benchmarks) </a>
 - <a href="https://github.com/POZAlabs/ComMU-code">Code on github</a>
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
  
