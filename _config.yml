@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
-title: ComMU
-description: A Dataset for Combinatorial Music Generation
+title: ComMU: Dataset for Combinatorial Music Generation
+
+description: NeurIPS 2022
+
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
