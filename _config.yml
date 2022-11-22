@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title: ComMU: Dataset for Combinatorial Music Generation
 description: NeurIPS 2022
+
+url : https://github.com/POZAlabs/ComMU
