@@ -29,12 +29,11 @@
  -->
 
 # Combinatorial music generation
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/img/figure_1.png" width=1000x>
 </div>
 As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. ComMU is utilized to solve stage 1.
-
-
+ -->
 
 
 ## Stage 1
@@ -80,7 +79,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg">
 </audio>
 
-The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
+<!-- The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
 Although there are differences from the music combined by the composer above, they sound harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/whole_music/newage_random_1.wav" type="audio/mpeg">
@@ -144,7 +143,7 @@ Although there is a difference from the music combined by the composer above, it
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_random.mp3" type="audio/mpeg">
 </audio>
--->
+--> -->
 
 # Ground truth vs. Generated
 Our system does not reconstruct ground-truth samples but generate samples that have originality.
