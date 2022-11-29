@@ -81,7 +81,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 </audio>
 
 The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
-Although there are differences from the music combined by the composer above, they sounds harmonious because the chord progression between the samples is consistent.
+Although there are differences from the music combined by the composer above, they sound harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/whole_music/newage_random_1.wav" type="audio/mpeg">
 </audio>
