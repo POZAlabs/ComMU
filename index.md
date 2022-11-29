@@ -79,7 +79,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
   <source src="./assets/audio_samples/track_role/newage_trackrole/newage_inspiring.mp3" type="audio/mpeg">
 </audio>
 
-<!-- The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
+The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
 Although there are differences from the music combined by the composer above, they sound harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/whole_music/newage_random_1.wav" type="audio/mpeg">
@@ -91,6 +91,7 @@ Although there are differences from the music combined by the composer above, th
   <source src="./assets/audio_samples/whole_music/newage_random_3.wav" type="audio/mpeg">
 </audio>
 
+<!--
 ## Stage 1
 
 Below is another set of samples with a different genre.
@@ -137,13 +138,13 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_romantic.mp3" type="audio/mpeg">
 </audio>
 
-<!--
+
 The following is music that randomly combines the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
 Although there is a difference from the music combined by the composer above, it sounds harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_random.mp3" type="audio/mpeg">
 </audio>
---> -->
+ -->
 
 # Ground truth vs. Generated
 Our system does not reconstruct ground-truth samples but generate samples that have originality.
