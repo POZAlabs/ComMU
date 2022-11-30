@@ -4,7 +4,7 @@
 - <a href="https://github.com/POZAlabs/ComMU-code">GitHub</a>
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
 
-<!-- # Examples of the dataset
+Examples of the dataset
 
 - #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
 #chord_progression: F → C → Am → G
@@ -26,14 +26,14 @@
   <img src="./assets/img/data_pipeline_5.png" width=1000x>
 </div>
 
- -->
+
 
 # Combinatorial music generation
-<!-- <div align="center">
+<div align="center">
   <img src="./assets/img/figure_1.png" width=1000x>
 </div>
 As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. ComMU is utilized to solve stage 1.
- -->
+
 
 
 ## Stage 1
@@ -91,7 +91,7 @@ Although there are differences from the music combined by the composer above, th
   <source src="./assets/audio_samples/whole_music/newage_random_3.wav" type="audio/mpeg">
 </audio>
 
-<!--
+
 ## Stage 1
 
 Below is another set of samples with a different genre.
@@ -138,7 +138,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_romantic.mp3" type="audio/mpeg">
 </audio>
 
-
+<!--
 The following is music that randomly combines the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
 Although there is a difference from the music combined by the composer above, it sounds harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
