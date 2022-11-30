@@ -3,8 +3,13 @@
 - <a href="https://openreview.net/pdf?id=Jq3uTzLg9se">Paper (NeurIPS 2022)</a>
 - <a href="https://github.com/POZAlabs/ComMU-code">GitHub</a>
 - <a href="./assets/ComMU.tar" download="ComMU.tar">Download dataset</a>
+ 
 
-Examples of the dataset
+<iframe width="800" height="457" src="https://www.youtube.com/embed/ybKJGGWuX9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+ComMU has 11,144 MIDI samples that consist of short note sequences created by professional composers with their corresponding 12 metadata. We propose combinatorial music generation, a new task that generate diverse and high-quality music only with metadata through auto-regressive language model. Here are the ComMU's 12 metadata:
+- BPM, genre, key, instrument, track-role, time signature, pitch range, number of measures, chord progression, min velocity, max velocity, and rhythm.
+
+# Examples of the dataset
 
 - #bpm: 100, #key: C major, #time_signature: 4/4 #number_of_measures: 8, #genre: cinematic, #rhythm: standard #track-role: accompaniment, #pitch_range: mid_low, #instruments: piano, #min_velocity: 36, #max_velocity: 40
 #chord_progression: F → C → Am → G
@@ -33,6 +38,7 @@ Examples of the dataset
   <img src="./assets/img/figure_1.png" width=1000x>
 </div>
 As shown above, the process of combinatorial music generation is divided into two stages. In stage 1, a note sequence is generated from a set of metadata. In stage 2, those note sequences are combined to produce a complete piece of music. ComMU is utilized to solve stage 1.
+
 
 
 
@@ -80,7 +86,7 @@ A human composer combines the 5 above audio samples, putting only 3-4 minutes to
 </audio>
 
 The followings are musics that randomly combined the 5 samples generated in stage1 while maintaining only the track-role of the samples. 
-Although there are differences from the music combined by the composer above, they sound harmonious because the chord progression between the samples is consistent.
+Although there are differences from the music combined by the composer above, they sounds harmonious because the chord progression between the samples is consistent.
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/whole_music/newage_random_1.wav" type="audio/mpeg">
 </audio>
@@ -90,7 +96,6 @@ Although there are differences from the music combined by the composer above, th
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/whole_music/newage_random_3.wav" type="audio/mpeg">
 </audio>
-
 
 ## Stage 1
 
@@ -144,7 +149,7 @@ Although there is a difference from the music combined by the composer above, it
 <audio controls style="width: 600px;">
   <source src="./assets/audio_samples/track_role/cinematic_trackrole/cinematic_random.mp3" type="audio/mpeg">
 </audio>
- -->
+-->
 
 # Ground truth vs. Generated
 Our system does not reconstruct ground-truth samples but generate samples that have originality.
